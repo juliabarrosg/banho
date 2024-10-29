@@ -1,4 +1,22 @@
-#Meme{
+body{
+    background-color: pink;
+}
+h1{
+text-transform:uppercase;
+font-size: 25px;
+}
+p{
+    font-weight: bold;
+}
+.Meme{
     width:50%;
     margin-left:25%;
+    margin-top:75px;
+    color:rgb(165, 28, 28);
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-align: center;
+}
+.image{
+    border:10px dashed salmon;
+    width:100%;
 }
